@@ -5,7 +5,7 @@ I'm a passionate Java backend developer, currently learning **Spring Boot** and 
 Feel free to connect with me via: mohamed.abdelaziz.elsharkawy@gmail.com
 
 ### Skills:
-- **Java** | **Spring Boot** | **Git** | **MySQL** 
+- **Java** | **Spring Boot** | **Git** | **MySQL**  
 
 ⚡ Fun fact: I'm a flight simulator enthusiast and dream of flying Cirrus Vision SF50!
 
